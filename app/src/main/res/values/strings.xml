@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SOA-BKDN</string>
+    <string name="error_emtry_username">Username không được để trống.</string>
+    <string name="error_emtry_password">Mật khẩu không được để trống.</string>
+    <string name="url">http://192.168.1.99:8080/PFMS/</string>
+</resources>
